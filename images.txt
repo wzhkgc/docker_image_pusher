@@ -1,5 +1,1 @@
-alpine
-nginx
-bitnami/kafka
-nfs-client-provisioner:latest
-jenkins/jenkins:2.369
+quay.io/external_storage/nfs-client-provisioner:latest
