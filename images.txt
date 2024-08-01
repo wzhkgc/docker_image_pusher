@@ -1,5 +1,5 @@
 alpine
 nginx
 bitnami/kafka
-quay.io/external_storage/nfs-client-provisioner:latest
+nfs-client-provisioner:latest
 jenkins/jenkins:2.369
