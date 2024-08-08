@@ -1,1 +1,1 @@
-jenkins/inbound-agent
+quay.io/minio/minio
