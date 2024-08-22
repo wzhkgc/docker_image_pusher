@@ -1,1 +1,1 @@
-registry.k8s.io/goproxy:0.1
+vish/stress:latest
