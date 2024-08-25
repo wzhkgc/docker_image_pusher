@@ -1,1 +1,1 @@
-registry.k8s.io/hpa-example
+jumpserver/mariadb:10.6
