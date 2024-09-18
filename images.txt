@@ -1,1 +1,1 @@
-wordpress:6.2.1-apache
+registry.aliyuncs.com/google_containers/calico/cni:v3.25.0
