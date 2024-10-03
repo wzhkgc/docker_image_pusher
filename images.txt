@@ -1,1 +1,1 @@
-registry.aliyuncs.com/google_containers/calico/cni:v3.25.0
+openjdk:8
