@@ -1,1 +1,5 @@
-mysql:5.7
+nginx:1.20
+redis:latest
+centos:latest
+busybox:latest
+alpine:3.8
