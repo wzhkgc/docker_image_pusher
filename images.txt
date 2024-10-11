@@ -1,5 +1,1 @@
-nginx:1.20
-redis:latest
-centos:latest
-busybox:latest
-alpine:3.8
+sonatype/nexus3:latest
