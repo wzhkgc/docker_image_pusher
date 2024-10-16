@@ -1,2 +1,2 @@
-tdengine/tdengine
-tancloud/hertzbeat
+bitnami/jenkins
+jenkins/jenkins
