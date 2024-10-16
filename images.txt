@@ -1,2 +1,1 @@
-bitnami/jenkins
-jenkins/jenkins
+docker:dind
