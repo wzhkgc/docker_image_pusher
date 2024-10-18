@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+jenkins/jenkins:2.387.3-lts-jdk11
