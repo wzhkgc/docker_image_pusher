@@ -1,1 +1,1 @@
-jenkins/jenkins:2.462.3-jdk17
+k8s.gcr.io/coredns/coredns:v1.8.0
