@@ -1,1 +1,1 @@
-ansible:latest
+ansible/ansible
