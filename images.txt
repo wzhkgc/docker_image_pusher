@@ -1,1 +1,1 @@
-tomcat:latest
+filebeat:latest
