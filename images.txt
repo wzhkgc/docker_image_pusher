@@ -1,1 +1,1 @@
-filebeat:latest
+nginx:latest
